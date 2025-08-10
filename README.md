@@ -7,7 +7,7 @@
 <h1 align="center">🎲 Ludo Game 🎯</h1>
 <p align="center">A fun, interactive, and multiplayer Ludo game built with React.js 🚀</p>
 
----
+--
 
 ## ✨ Features
 - 🎮 **Multiplayer Support** – Play with friends in real-time  
